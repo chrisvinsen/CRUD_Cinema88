@@ -1,0 +1,55 @@
+﻿.theme-red .navbar {
+  /*background-color: #F44336; */
+  background-image: linear-gradient(45deg,#c31432 0, #240b36 100%) !important;
+}
+
+.theme-red .navbar-brand {
+  color: #fff; }
+  .theme-red .navbar-brand:hover {
+    color: #fff; }
+  .theme-red .navbar-brand:active {
+    color: #fff; }
+  .theme-red .navbar-brand:focus {
+    color: #fff; }
+
+.theme-red .nav > li > a {
+  color: #fff; }
+  .theme-red .nav > li > a:hover {
+    background-color: transparent; }
+  .theme-red .nav > li > a:focus {
+    background-color: transparent; }
+
+.theme-red .nav .open > a {
+  background-color: transparent; }
+  .theme-red .nav .open > a:hover {
+    background-color: transparent; }
+  .theme-red .nav .open > a:focus {
+    background-color: transparent; }
+
+.theme-red .bars {
+  color: #fff; }
+
+.theme-red .sidebar .menu .list li.active {
+  background-color: transparent; }
+  .theme-red .sidebar .menu .list li.active > :first-child i, .theme-red .sidebar .menu .list li.active > :first-child span {
+    color: #c31432; }
+
+.theme-red .sidebar .menu .list .toggled {
+  background-color: transparent; }
+
+.theme-red .sidebar .menu .list .ml-menu {
+  background-color: transparent; }
+
+.theme-red .sidebar .legal {
+  background-color: #fff; 
+}
+  .theme-red .sidebar .legal .copyright a {
+    color: #c31432 !important; 
+  }
+
+.gradient-color{
+  background-image: linear-gradient(45deg,#c31432 0, #240b36 100%) !important;
+}
+.gradient-color-bg{
+  background-image: linear-gradient(45deg,#bdc3c7 0, #2c3e50 100%) !important;
+}

@@ -1,0 +1,8 @@
+.parent_center{
+	display: table;
+}
+.child_center{
+	/*display: table-cell;*/
+	vertical-align: middle;
+	text-align: center;
+}
